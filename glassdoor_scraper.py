@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Apr 10 09:38:33 2022
+
+@author Kenjee and Kenaropfaik
+url: https://github.com/arapfaik/scraping-glasdoor-selenium
+"""
+
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
 import time
